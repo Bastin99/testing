@@ -3,6 +3,7 @@ def add(x, y):
     print('ew')
     print('rer')
     print('pas')
+    print('wes')
     return x + y
 
 
