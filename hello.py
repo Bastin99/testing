@@ -5,6 +5,7 @@ def add(x, y):
     print('pas')
     
     print('wera')
+    print('wes')
     return x + y
 
 
